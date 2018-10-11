@@ -1,0 +1,6 @@
+[package]
+name = "init_rust"
+version = "0.1.0"
+authors = ["Manan Shah <manan@recruiterbox.com>"]
+
+[dependencies]
